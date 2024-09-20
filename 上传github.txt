@@ -11,3 +11,9 @@ git push -u origin main
 git remote add origin https://github.com/codesknight/Learning-NLP-Together.git
 git branch -M main
 git push -u origin main
+
+git status
+git add . 
+git commit -m"day-x"
+git branch -M main
+git push -u origin main
